@@ -1,2 +1,2 @@
 # MyLoginApplication
-Creating standardown Login application using java
+Creating standardown Login application using JavaSwing
